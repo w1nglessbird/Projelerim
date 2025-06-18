@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|c:\\users\\egeha\\onedrive\\desktop\\songib\\wpfapp2\\hastasayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\hastasayfasi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\hastasayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\hastasayfasi.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\anasayfa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\anasayfa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\anasayfa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\anasayfa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\ilaceklememanuel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\ilaceklememanuel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\ilaceklememanuel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\ilaceklememanuel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\recete.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\recete.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\recete.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\recete.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\grafikler.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\grafikler.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\ilacekleme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\ilacekleme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\wpfapp2\\gecmis.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CE7CC90-1437-4521-8DF0-F402494A2FBB}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\gecmis.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 667,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Recete.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\Recete.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\Recete.xaml.cs",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\Recete.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\Recete.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:40:44.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Grafikler.xaml",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\Grafikler.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Grafikler.xaml",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\Grafikler.xaml",
+              "RelativeToolTip": "WpfApp2\\Grafikler.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T16:23:08.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ilacEkleme.xaml",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\ilacEkleme.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\ilacEkleme.xaml",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\ilacEkleme.xaml",
+              "RelativeToolTip": "WpfApp2\\ilacEkleme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-14T14:00:26.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HastaSayfasi.xaml",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\HastaSayfasi.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\HastaSayfasi.xaml",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\HastaSayfasi.xaml",
+              "RelativeToolTip": "WpfApp2\\HastaSayfasi.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-14T16:15:03.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HastaSayfasi.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\HastaSayfasi.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\HastaSayfasi.xaml.cs",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\HastaSayfasi.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\HastaSayfasi.xaml.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAswCIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:23:10.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gecmis.xaml",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\Gecmis.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Gecmis.xaml",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\Gecmis.xaml",
+              "RelativeToolTip": "WpfApp2\\Gecmis.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T09:32:51.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IlacEklememanuel.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\IlacEklememanuel.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\IlacEklememanuel.xaml.cs",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\IlacEklememanuel.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\IlacEklememanuel.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:34:02.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnaSayfa.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\AnaSayfa.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\AnaSayfa.xaml.cs",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\AnaSayfa.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\AnaSayfa.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:28:08.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IlacEklememanuel.xaml",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\IlacEklememanuel.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\IlacEklememanuel.xaml",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\IlacEklememanuel.xaml",
+              "RelativeToolTip": "WpfApp2\\IlacEklememanuel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T15:18:38.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnaSayfa.xaml",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\AnaSayfa.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\AnaSayfa.xaml",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\AnaSayfa.xaml",
+              "RelativeToolTip": "WpfApp2\\AnaSayfa.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-01T08:15:20.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\App.xaml",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\App.xaml",
+              "RelativeToolTip": "WpfApp2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-14T14:11:02.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recete.xaml",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\Recete.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\Recete.xaml",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\Recete.xaml",
+              "RelativeToolTip": "WpfApp2\\Recete.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-29T01:14:40.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\egeha\\OneDrive\\Desktop\\songib\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-28T15:54:55.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
